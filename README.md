@@ -1,6 +1,10 @@
-### Hello, there!
+<h1 align="center"> Hello, there! </h1>
 
-##
+<h2 align="center">
+  
+[![trophy](https://github-profile-trophy.vercel.app/?username=jpastolfo&theme=onedark&row=1&no-frame=true&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+</h2>
+
 
 - 🔭 I’m currently working on Genetic Algorithms for Optical Design Optimization
 - 🌱 I’m currently learning Java
@@ -14,13 +18,14 @@
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jpastolfo&theme=dark&layout=compact&langs_count=8&card_width=320" />
 </a>
+<a>
+  <img height=180 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jpastolfo&theme=dark" alt="jpastolfo" />
+</a>
 
-<!--
 <a href="https://github.com/anuraghazra/github-readme-stats">
+
   <img valign="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@jpastolfo"/>
 </a>
--->
-
 
 <div style="display: inline_block"><br>
   <img align="center" alt="jpastolfo-Python" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
