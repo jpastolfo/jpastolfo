@@ -1,16 +1,36 @@
-### Hi there 👋
+### Hello, there!
+
+##
+
+- 🔭 I’m currently working on Genetic Algorithms for Optical Design Optimization
+- 🌱 I’m currently learning Java
+- 📫 How to reach me: joao.astolfo@lnls.br or joaop.astolfo@gmail.com
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I love vinyl disks!
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=jpastolfo&theme=dark&show_icons=true" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jpastolfo&theme=dark&layout=compact&langs_count=8&card_width=320" />
+</a>
 
 <!--
-**jpastolfo/jpastolfo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img valign="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@jpastolfo"/>
+</a>
 -->
+
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="jpastolfo-Python" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+  <img align="center" alt="jpastolfo-Java" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+  <img align="center" alt="jpastolfo-jupyter" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg"/>
+  <img align="center" alt="jpastolfo-C#" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
+</div>
+          
+##
+
+<div>
+  <a href="https://www.linkedin.com/in/joao-astolfo" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
