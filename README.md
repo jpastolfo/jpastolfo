@@ -5,13 +5,16 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=jpastolfo&theme=onedark&row=1&no-frame=true&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 </h2>
 
+👋 Hello there! I'm João Pedro Imbriani Astolfo, a 23-year-old Engineering Physics undergraduate student at the Federal University of São Carlos.
 
+🔭 My journey into the world of engineering and science led me to the Brazilian Synchrotron Light Source, where I focus on Modeling and Architecture of Experimental Stations and optimization frameworks development in Python. My most significant accomplishment so far is an optimization code for beamline optical design, using genetic algorithms.
 
-- 🔭 I’m currently working on Genetic Algorithms for Optical Design Optimization
-- 🌱 I’m currently learning Java
-- 📫 How to reach me: joao.astolfo@lnls.br or joaop.astolfo@gmail.com
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I love vinyl disks!
+🌱 I'm currently delving into the worlds of Java, C#, and Julia to create new and exciting things.
+
+🎮 Beyond coding for research and development, I'm a game development enthusiast and passionate about crafting interactive experiences.
+
+🚀 Feel free to reach out for a chat about coding, science, music.
+
 
 <div align="center">
   <a>
