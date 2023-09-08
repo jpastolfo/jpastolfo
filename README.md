@@ -13,7 +13,7 @@
 
 🎮 Beyond coding for research and development, I'm a game development enthusiast and passionate about crafting interactive experiences.
 
-🚀 Feel free to reach out for a chat about coding, science, music.
+🚀 Feel free to reach out for a chat about coding, science and music.
 
 
 <div align="center">
