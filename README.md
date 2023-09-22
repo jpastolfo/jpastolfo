@@ -31,6 +31,14 @@
 </a>
 </div>
 
+<br>
+
+<div align="center">
+  <a>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=jpastolfo&theme=dark" alt="jpastolfo wakatime stats"/>
+  </a>
+</div>
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="jpastolfo-Python" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
